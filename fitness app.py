@@ -10,6 +10,8 @@ Sex = input("Si in final imi poti spune sexul tau? (masculin, feminim) \n"
             "daca nu ai dori sa raspunzi la aceasta intrebare scrie '.' ")
 sleep(0.3)
 
+
+
 print("Acum iti vom calcula consumul zilnic de energie: ")
 print("calculam................................................................")
 sleep(1)
